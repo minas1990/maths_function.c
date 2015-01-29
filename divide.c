@@ -1,5 +1,5 @@
 #include <stdio.h>
-//This is the line causing issue in the conflict branch
+//This is the line causing issue in the master branch
 
 int main()
 {
