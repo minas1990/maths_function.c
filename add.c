@@ -22,7 +22,7 @@ int main()
 	average = total/max;
 	
 	printf("Add = %i\n",total);
-	printf("Average = %i\n",average);
+	
 	
 
 	return 0;
